@@ -5,8 +5,8 @@
 ---
 
 Для решения задачи необходимо было выбрать C-подобный язык, в связи с чем мною было реализовано 2 решения на 2-х языках программирования:
-- Python3 (написанный на C) - `solution_task.py`
-- Swift (написанный на Objective-C) - `solution_task.swift`
+- Python3 - `solution_task.py`
+- Swift - `solution_task.swift`
 
 ---
 
